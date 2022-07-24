@@ -1,4 +1,4 @@
-# Simple-Todo-web-app-using-Go-
+# Simple-Todo-web-app-using-Go-Language
 
 a REST API with the go programming language
 
